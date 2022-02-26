@@ -1,0 +1,2 @@
+This repository is for sample notebook of training a Vertex Pipeline using 
+*bigquery-public-data.ml_datasets.ulb_fraud_detection* public dataset. This uses a simple Vertex Code.
